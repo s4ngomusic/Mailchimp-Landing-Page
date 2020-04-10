@@ -1,0 +1,2 @@
+<!-- Resources on other origins must be CORS-enabled. -->
+<link rel="import" href="http://example.com/elements.html">
